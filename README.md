@@ -33,6 +33,5 @@ This package contains all the classes and resources associated with your applica
 5. **Searching and Displaying Data**
    - Provides functionality for searching and displaying data about clients and medicines.
 
-## Summary
 
 The "Pharmacy Management" project is a comprehensive and user-friendly Java application for efficient pharmacy management, offering advanced functionalities for data manipulation and intuitive user interaction.
