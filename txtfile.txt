@@ -1,0 +1,20 @@
+10 Piador 
+100 Algocalmin 
+15 Saliform 
+20 Nurofen 
+20 Azitromicina 
+22 Amoxicilina 
+28 Cefort 
+30 Paracetamol 
+33 Bioflu 
+35 Ibufen 
+40 Aspirina 
+40 Aspacardin 
+50 Almacor 
+55 Calmotusin 
+60 Nurofen forte 
+60 Tetraciclina 
+70 Brufen 
+70 Imodium 
+77 Sindolor 
+77 Ceforan 
